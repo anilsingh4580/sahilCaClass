@@ -1,0 +1,458 @@
+01-02-2021 @ 08:40:28 - Creating Instamojo Order for order id: 1634
+01-02-2021 @ 08:40:28 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 08:40:29 - Data sent for creating order Array
+(
+    [name] => sj js
+    [email] => sahiljain2803@gmail.com
+    [phone] => 9487246754
+    [amount] => 1
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609576829-1634
+)
+
+01-02-2021 @ 08:40:29 - Validation Exception Occured with response stdClass Object
+(
+    [amount] => Array
+        (
+            [0] => Amount cannot be less than INR 9.00.
+        )
+
+)
+
+01-02-2021 @ 08:45:52 - Creating Instamojo Order for order id: 1635
+01-02-2021 @ 08:45:52 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 08:45:53 - Data sent for creating order Array
+(
+    [name] => sj js
+    [email] => sahiljain2803@gmail.com
+    [phone] => 9487246754
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609577153-1635
+)
+
+01-02-2021 @ 08:45:53 - Creating Instamojo Order for order id: 1636
+01-02-2021 @ 08:45:53 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 08:45:53 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 977273e03bad484f9cc7fa31a1893fbc
+            [transaction_id] => 1609577153-1635
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => sj js
+            [email] => sahiljain2803@gmail.com
+            [phone] => +919487246754
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T08:45:53.592311Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:977273e03bad484f9cc7fa31a1893fbc/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/977273e03bad484f9cc7fa31a1893fbc?embed=form
+        )
+
+)
+
+01-02-2021 @ 08:45:53 - Data sent for creating order Array
+(
+    [name] => sj js
+    [email] => sahiljain2803@gmail.com
+    [phone] => 9487246754
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609577153-1636
+)
+
+01-02-2021 @ 08:45:54 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 905ca35f1bd54f649f83747d98fba9ef
+            [transaction_id] => 1609577153-1636
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => sj js
+            [email] => sahiljain2803@gmail.com
+            [phone] => +919487246754
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T08:45:54.183100Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:905ca35f1bd54f649f83747d98fba9ef/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/905ca35f1bd54f649f83747d98fba9ef?embed=form
+        )
+
+)
+
+01-02-2021 @ 08:53:43 - Creating Instamojo Order for order id: 1637
+01-02-2021 @ 08:53:43 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 08:53:43 - Data sent for creating order Array
+(
+    [name] => Hsk Hwjd
+    [email] => sahiljain2803@gmail.com
+    [phone] => 8826848279
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609577623-1637
+)
+
+01-02-2021 @ 08:53:44 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => cb8d700b016c4e3f8fd7f58cde98bbaf
+            [transaction_id] => 1609577623-1637
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => Hsk Hwjd
+            [email] => sahiljain2803@gmail.com
+            [phone] => +918826848279
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T08:53:44.031201Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:cb8d700b016c4e3f8fd7f58cde98bbaf/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/cb8d700b016c4e3f8fd7f58cde98bbaf?embed=form
+        )
+
+)
+
+01-02-2021 @ 08:55:23 - Callback Called with payment ID: MOJO1102705A66648644 and payment req id: cb8d700b016c4e3f8fd7f58cde98bbaf
+01-02-2021 @ 08:55:23 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 08:55:23 - Response from server: stdClass Object
+(
+    [id] => cb8d700b016c4e3f8fd7f58cde98bbaf
+    [transaction_id] => 1609577623-1637
+    [status] => completed
+    [currency] => INR
+    [amount] => 10.00
+    [name] => Hsk Hwjd
+    [email] => sahiljain2803@gmail.com
+    [phone] => +918826848279
+    [description] => Instapay
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [webhook_url] => 
+    [created_at] => 2021-01-02T08:53:44.031201Z
+    [payments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => MOJO1102705A66648644
+                    [status] => successful
+                    [instrument_type] => CARD
+                    [billing_instrument] => Corporate Card
+                    [failure] => 
+                )
+
+        )
+
+    [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:cb8d700b016c4e3f8fd7f58cde98bbaf/
+    [customer_id] => 
+)
+
+01-02-2021 @ 08:55:23 - Payment status for MOJO1102705A66648644 is successful
+01-02-2021 @ 08:55:23 - Extracted order id from trasaction_id: 1637
+01-02-2021 @ 08:55:23 - Payment for MOJO1102705A66648644 was credited.
+01-02-2021 @ 09:13:31 - Creating Instamojo Order for order id: 1638
+01-02-2021 @ 09:13:31 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 09:13:31 - Data sent for creating order Array
+(
+    [name] => sitanshu gupta
+    [email] => sitanshugupta001@gmail.com
+    [phone] => 8383887631
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609578811-1638
+)
+
+01-02-2021 @ 09:13:32 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 1e84736244754a7482b99bb50d23b61e
+            [transaction_id] => 1609578811-1638
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => sitanshu gupta
+            [email] => sitanshugupta001@gmail.com
+            [phone] => +918383887631
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T09:13:32.400385Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:1e84736244754a7482b99bb50d23b61e/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/1e84736244754a7482b99bb50d23b61e?embed=form
+        )
+
+)
+
+01-02-2021 @ 09:21:05 - Callback Called with payment ID: MOJO1102605A66650124 and payment req id: 1e84736244754a7482b99bb50d23b61e
+01-02-2021 @ 09:21:05 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 09:21:06 - Response from server: stdClass Object
+(
+    [id] => 1e84736244754a7482b99bb50d23b61e
+    [transaction_id] => 1609578811-1638
+    [status] => completed
+    [currency] => INR
+    [amount] => 10.00
+    [name] => sitanshu gupta
+    [email] => sitanshugupta001@gmail.com
+    [phone] => +918383887631
+    [description] => Instapay
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [webhook_url] => 
+    [created_at] => 2021-01-02T09:13:32.400385Z
+    [payments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => MOJO1102605A66650124
+                    [status] => successful
+                    [instrument_type] => CARD
+                    [billing_instrument] => Domestic Regular Debit Card (Visa/Mastercard)
+                    [failure] => 
+                )
+
+        )
+
+    [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:1e84736244754a7482b99bb50d23b61e/
+    [customer_id] => 
+)
+
+01-02-2021 @ 09:21:06 - Payment status for MOJO1102605A66650124 is successful
+01-02-2021 @ 09:21:06 - Extracted order id from trasaction_id: 1638
+01-02-2021 @ 09:21:06 - Payment for MOJO1102605A66650124 was credited.
+01-02-2021 @ 09:51:29 - Creating Instamojo Order for order id: 1643
+01-02-2021 @ 09:51:29 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 09:51:30 - Data sent for creating order Array
+(
+    [name] => Parth Kapoor
+    [email] => parthshooter95.pk@gmail.com
+    [phone] => 8810559778
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609581090-1643
+)
+
+01-02-2021 @ 09:51:30 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => e6b6f810cd254e9298ffe7c1dc55e202
+            [transaction_id] => 1609581090-1643
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => Parth Kapoor
+            [email] => parthshooter95.pk@gmail.com
+            [phone] => +918810559778
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T09:51:31.083568Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:e6b6f810cd254e9298ffe7c1dc55e202/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/e6b6f810cd254e9298ffe7c1dc55e202?embed=form
+        )
+
+)
+
+01-02-2021 @ 09:55:28 - Creating Instamojo Order for order id: 1643
+01-02-2021 @ 09:55:28 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 09:55:29 - Data sent for creating order Array
+(
+    [name] => Parth Kapoor
+    [email] => parthshooter95.pk@gmail.com
+    [phone] => 8810559778
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609581329-1643
+)
+
+01-02-2021 @ 09:55:29 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 9effd612181b4f77a73115eaafdb5ba7
+            [transaction_id] => 1609581329-1643
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => Parth Kapoor
+            [email] => parthshooter95.pk@gmail.com
+            [phone] => +918810559778
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T09:55:29.420056Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:9effd612181b4f77a73115eaafdb5ba7/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/9effd612181b4f77a73115eaafdb5ba7?embed=form
+        )
+
+)
+
+01-02-2021 @ 09:58:47 - Creating Instamojo Order for order id: 1644
+01-02-2021 @ 09:58:47 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 09:58:47 - Data sent for creating order Array
+(
+    [name] => Hajs Bsjd
+    [email] => sahiljain2803@gmail.com
+    [phone] => 5856985896
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609581527-1644
+)
+
+01-02-2021 @ 09:58:48 - Validation Exception Occured with response stdClass Object
+(
+    [phone] => Array
+        (
+            [0] => This is not a valid phone number.
+        )
+
+)
+
+01-02-2021 @ 09:59:00 - Creating Instamojo Order for order id: 1644
+01-02-2021 @ 09:59:00 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 09:59:00 - Data sent for creating order Array
+(
+    [name] => Hajs Bsjd
+    [email] => sahiljain2803@gmail.com
+    [phone] => 8826848279
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609581540-1644
+)
+
+01-02-2021 @ 09:59:01 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => f1e25bada36c4b30aebe19b424801f38
+            [transaction_id] => 1609581540-1644
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => Hajs Bsjd
+            [email] => sahiljain2803@gmail.com
+            [phone] => +918826848279
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T09:59:01.304466Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:f1e25bada36c4b30aebe19b424801f38/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/f1e25bada36c4b30aebe19b424801f38?embed=form
+        )
+
+)
+
+01-02-2021 @ 10:05:10 - Creating Instamojo Order for order id: 1645
+01-02-2021 @ 10:05:10 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 10:05:10 - Data sent for creating order Array
+(
+    [name] => uhb knbb
+    [email] => aleena@gmail.com
+    [phone] => 123456
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609581910-1645
+)
+
+01-02-2021 @ 10:05:10 - Validation Exception Occured with response stdClass Object
+(
+    [phone] => Array
+        (
+            [0] => This is not a valid phone number.
+        )
+
+)
+
+01-02-2021 @ 10:05:29 - Creating Instamojo Order for order id: 1645
+01-02-2021 @ 10:05:29 - Client ID: 5XOtxxxxxxxxxx | Client Secret: nTo6xxxxxxxxxx | Testmode:  
+01-02-2021 @ 10:05:30 - Data sent for creating order Array
+(
+    [name] => uhb knbb
+    [email] => aleena@gmail.com
+    [phone] => 9910122196
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://www.taxationwithsahiljain.com
+    [transaction_id] => 1609581930-1645
+)
+
+01-02-2021 @ 10:05:30 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => feb3588984bd41dfaec305d9935a8755
+            [transaction_id] => 1609581930-1645
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => uhb knbb
+            [email] => aleena@gmail.com
+            [phone] => +919910122196
+            [description] => Instapay
+            [redirect_url] => https://www.taxationwithsahiljain.com
+            [webhook_url] => 
+            [created_at] => 2021-01-02T10:05:30.412190Z
+            [resource_uri] => https://www.instamojo.com/v2/gateway/orders/id:feb3588984bd41dfaec305d9935a8755/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@casahiljain2803/feb3588984bd41dfaec305d9935a8755?embed=form
+        )
+
+)
+

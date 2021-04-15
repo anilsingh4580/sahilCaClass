@@ -1,0 +1,8 @@
+[04-Aug-2020 00:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nj5iiz5lwkk5/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nj5iiz5lwkk5/public_html/wp-admin/user/menu.php on line 10
+[04-Aug-2020 00:59:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nj5iiz5lwkk5/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nj5iiz5lwkk5/public_html/wp-admin/user/menu.php on line 10
